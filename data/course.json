@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "b5c25fa7-1d33-4c80-e073-1ac77d8ad53a",
+  "instructors": {
+    "content": [
+      "555a0137-1a2d-7d0a-8274-1e6be0112025"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2da5a90d-49ef-24db-b529-8a0516122992",
+    "website": "6-251j-introduction-to-mathematical-programming-fall-2009"
+  },
+  "course_title": "Introduction to Mathematical Programming",
+  "course_description": "This course is an introduction to linear optimization and its extensions emphasizing the underlying mathematical structures, geometrical ideas, algorithms and solutions of practical problems. The topics covered include: formulations, the geometry of linear optimization, duality theory, the simplex method, sensitivity analysis, robust optimization, large scale optimization network flows, solving problems with an exponential number of constraints and the ellipsoid method, interior point methods, semidefinite optimization, solving real world problems problems with computer software, discrete optimization formulations and algorithms.\n",
+  "department_numbers": [
+    "6",
+    "15"
+  ],
+  "extra_course_numbers": "15.081J",
+  "primary_course_number": "6.251J",
+  "course_image_thumbnail": {
+    "content": "1b1c2ecb-c52e-375c-7e9b-ec0036d9ec0a",
+    "website": "6-251j-introduction-to-mathematical-programming-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "ef67a347-fe34-4df7-b3e5-3550b31bb7c3",
+  "site_short_id": "6.251j-fall-2009",
+  "site_url_path": "courses/6-251j-introduction-to-mathematical-programming-fall-2009",
+  "title": "Course Metadata"
+}

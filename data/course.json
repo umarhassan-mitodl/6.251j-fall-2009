@@ -40,7 +40,6 @@
     "website": "6-251j-introduction-to-mathematical-programming-fall-2009"
   },
   "course_title": "Introduction to Mathematical Programming",
-  "hide_download": true,
   "course_description": "This course is an introduction to linear optimization and its extensions emphasizing the underlying mathematical structures, geometrical ideas, algorithms and solutions of practical problems. The topics covered include: formulations, the geometry of linear optimization, duality theory, the simplex method, sensitivity analysis, robust optimization, large scale optimization network flows, solving problems with an exponential number of constraints and the ellipsoid method, interior point methods, semidefinite optimization, solving real world problems problems with computer software, discrete optimization formulations and algorithms.\n",
   "department_numbers": [
     "6",
@@ -52,7 +51,6 @@
     "content": "1b1c2ecb-c52e-375c-7e9b-ec0036d9ec0a",
     "website": "6-251j-introduction-to-mathematical-programming-fall-2009"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

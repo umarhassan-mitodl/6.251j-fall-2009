@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a list of assigned problems for the course and
   information on the course textbook.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
